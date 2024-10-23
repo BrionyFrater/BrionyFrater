@@ -1,4 +1,4 @@
 # Hi 👋, I'm Briony Frater
 
-### Software Engineer | Jamaica📍
+### Software Engineer | Jamaica 📌🌎
 
