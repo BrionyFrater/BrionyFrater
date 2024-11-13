@@ -3,13 +3,13 @@
 
 - :telescope: I’m a **Software Developer at Particular Presence Technologies**
 
-- 🌱 I’m currently earning my **AWS Developer - Associate Certification**
+- 🌱  I’m currently pursuing my **AWS Developer - Associate Certification**
 
-- 💬 Ask me about **UI/UX & Web Development**
+- 💬 Ask me about **UI/UX and Web Development**
 
 - 📫 Reach me @ **briefrater@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/briony-frater-b9978b194/](https://www.linkedin.com/in/briony-frater-b9978b194/)
+- 📄 Learn more about my experience [https://www.linkedin.com/in/briony-frater-b9978b194/](https://www.linkedin.com/in/briony-frater-b9978b194/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
