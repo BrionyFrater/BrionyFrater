@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi, I'm Briony Frater</h1>
 <h3 align="center">Software Engineer from St. Ann, Jamaica📌</h3>
 
-- :telescope: I’m currently a **Software Developer at Particular Presence Technologies**
+- :telescope: I’m a **Software Developer at Particular Presence Technologies**
 
 - 🌱 I’m currently earning my **AWS Developer - Associate Certification**
 
